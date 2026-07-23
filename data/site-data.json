@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "title": "Lloyd Dev",
+    "memberCount": 0,
+    "tagline": "⚡ Bot WhatsApp All-in-One\nAuto-reply • Order management • Analytics\n🚀 Tingkatkan bisnis tanpa ribet!",
+    "avatarUrl": "https://dxrbazhkmvkihupw.public.blob.vercel-storage.com/images/avatar-1780998483375.png",
+    "backgroundUrl": "https://dxrbazhkmvkihupw.public.blob.vercel-storage.com/images/background-1780998497138.jpg",
+    "footerText": "Lloyd Dev — 2026",
+    "globeUrl": "https://www.lloydmarket.my.id",
+    "githubOwner": "lloydmedia-1",
+    "githubRepo": "media",
+    "githubBranch": "main",
+    "githubFolder": "uploads"
+  },
+  "links": [
+    {
+      "id": "saluran-bot",
+      "icon": "https://dxrbazhkmvkihupw.public.blob.vercel-storage.com/images/btn-icon-1780998527217.png",
+      "title": "SALURAN BOT",
+      "subtitle": "wajib join supaya tidak ketinggalan info update/info bot",
+      "url": "https://whatsapp.com/channel/0029Vb7xWiC1iUxTIICAzD3r"
+    },
+    {
+      "id": "market-bot",
+      "icon": "https://dxrbazhkmvkihupw.public.blob.vercel-storage.com/images/btn-icon-1780998539777.png",
+      "title": "MARKET BOT",
+      "subtitle": "layanan system digital otp / bot WhatsApp / aplikasi premium dengan system auto order",
+      "url": "https://www.lloydmarket.my.id"
+    },
+    {
+      "id": "market-nokos",
+      "icon": "https://dxrbazhkmvkihupw.public.blob.vercel-storage.com/images/btn-icon-1780998554135.png",
+      "title": "MARKET NOKOS",
+      "subtitle": "layanan otp dengan system auto order",
+      "url": "https://www.lloydmarket.my.id/otp"
+    },
+    {
+      "id": "group-bot",
+      "icon": "https://dxrbazhkmvkihupw.public.blob.vercel-storage.com/images/btn-icon-1780998566199.png",
+      "title": "GROUP BOT",
+      "subtitle": "join group untuk mendapatkan akses secara gratis",
+      "url": "https://chat.whatsapp.com/KrMxstUa69JLwlVz2mIFBG"
+    }
+  ]
+}
